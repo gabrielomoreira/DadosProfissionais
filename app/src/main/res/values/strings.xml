@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dados Profissionais</string>
+    <string name="app_label_info_personal">Informações Pessoais</string>
+    <string name="app_label_formacao">Formação</string>
+    <string name="app_label_experiencia_profissional">Experiencia Profissional</string>
+    <string name="app_label_cursos">Cursos</string>
+    <string name="app_label_publicacoes">Publicações</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Gabriel Moreira</string>
+    <string name="nav_header_subtitle">gabriel.moreira@al.infnet.com</string>
+
+
+    <string name="menu_info_pessoal">Informações pessoais</string>
+    <string name="menu_formacao_pessoal">Formação</string>
+    <string name="menu_experiencia_profissional">Experiencia profissional</string>
+    <string name="menu_cursos">Cursos</string>
+    <string name="menu_publicacoes">Publicações</string>
+
+</resources>

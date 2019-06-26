@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_info_pessoal"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/menu_info_pessoal" />
+        <item
+            android:id="@+id/nav_formacao_pessoal"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/menu_formacao_pessoal" />
+        <item
+            android:id="@+id/nav_experiencia_profissional"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/menu_experiencia_profissional" />
+        <item
+            android:id="@+id/nav_cusos"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/menu_cursos" />
+        <item
+            android:id="@+id/nav_publicacoes"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/menu_publicacoes" />
+    </group>
+
+
+</menu>
